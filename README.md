@@ -67,15 +67,15 @@ endmodule
 ## Output:
 ## RTL:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Experiment--02-Implementation-of-combinational-logic-/main/Screenshot%202023-12-31%20181751.png)
 
 ## Timing Diagram
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Experiment--02-Implementation-of-combinational-logic-/main/Screenshot%202023-12-31%20181739.png)
 
 ## Truth Table:
 
-![image](
+![image](https://raw.githubusercontent.com/pavithran2046/Experiment--02-Implementation-of-combinational-logic-/main/Screenshot%202023-12-31%20181806.png)
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
